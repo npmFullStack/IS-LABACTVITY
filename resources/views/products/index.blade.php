@@ -5,7 +5,7 @@
     <div class="card">
         <div class="card-header">
             <h2>
-                Laravel 10 CRUD
+                Laravel 10 CRUD - Norway Mangorangca
                 <a class="btn btn-primary float-end" href="{{ route('products.create') }}"> Create New Product</a>
             </h2>
         </div>
